@@ -1,0 +1,42 @@
+{
+  "ppn_amount": 63397833,
+  "subtotal_fees_amount": 633978332,
+  "total_fees_amount": 653113450,
+  "total_transactions_count": 222601,
+  "total_transactions_amount": 233816858689,
+  "ewallet_payments_count": 3242,
+  "ewallet_payments_total": 2682588846,
+  "ewallet_payments_fees_amount": 40238832,
+  "ewallet_payments_fees_paid_amount": 44259681,
+  "ewallet_payments_stats": [
+    {
+      "fee": 40238832,
+      "vat": 4023883,
+      "count": 3242,
+      "amount": 2682588846,
+      "percentage_rate": 0.015,
+      "payment_channel": "OVO"
+    }
+  ],
+  "ewallet_rates": [
+    {
+      "ewallet_type": "OVO",
+      "ewallet_charge_type": "PERCENTAGE",
+      "ewallet_fee": 0.015
+    }
+  ],
+  "virtual_account_payments_count": 50672,
+  "virtual_account_payments_total": 61481527224,
+  "virtual_account_rates": [
+    {
+      "tier_1_fee": 3000,
+      "tier_2_fee": 3000,
+      "tier_1_end": 5000,
+      "tier_2_end": 10000,
+      "deduction_type": "INDIRECT",
+      "tier_3_fee": 3000
+    }
+  ],
+  "virtual_account_payments_fees_amount": 102053000,
+  "virtual_account_payments_fees_paid_amount": 0
+}
